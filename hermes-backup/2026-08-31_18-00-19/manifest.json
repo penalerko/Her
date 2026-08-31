@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-08-31_18-00-19",
+  "repo": "penalerko/Her",
+  "includes": [
+    "config.yaml",
+    "SOUL.md",
+    "memories",
+    "skills",
+    "cron",
+    "state",
+    "sessions",
+    "auth.json",
+    "channel_directory.json"
+  ],
+  "archive": "hermes-backup/2026-08-31_18-00-19/hermes.tar.gz",
+  "size": 4643725,
+  "hostname": "1dc05dd44d41"
+}
