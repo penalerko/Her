@@ -1,15 +1,15 @@
 # Hermes Backup
 
-آخرین بکاپ: `2026-09-06_09-00-22`
-حجم: 6665365 bytes
+آخرین بکاپ: `2026-09-06_18-00-13`
+حجم: 6665513 bytes
 
 ## ساختار
-- `hermes-backup/2026-09-06_09-00-22/hermes.tar.gz` - آرشیو کامل (memories, skills, config, cron, state)
-- `hermes-backup/2026-09-06_09-00-22/manifest.json` - اطلاعات بکاپ
+- `hermes-backup/2026-09-06_18-00-13/hermes.tar.gz` - آرشیو کامل (memories, skills, config, cron, state)
+- `hermes-backup/2026-09-06_18-00-13/manifest.json` - اطلاعات بکاپ
 
 ## بازیابی
 ```bash
-curl -L -o hermes.tar.gz https://raw.githubusercontent.com/penalerko/Her/main/hermes-backup/2026-09-06_09-00-22/hermes.tar.gz
+curl -L -o hermes.tar.gz https://raw.githubusercontent.com/penalerko/Her/main/hermes-backup/2026-09-06_18-00-13/hermes.tar.gz
 tar xzf hermes.tar.gz -C ~/.hermes --strip-components=1
 ```
 
